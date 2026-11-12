@@ -70,8 +70,12 @@ Project-Modules/
 ├── README.md              <- halaman ini (indeks)
 ├── pdf/                   <- seluruh modul dalam format PDF
 └── scripts/
+ HEAD
     ├── rapikan_pdf.ps1    <- (Windows) menyalin & mengganti nama PDF agar cocok dengan tautan
     ├── rapikan_pdf.py     <- versi Python dari skrip yang sama
+
+    ├── rapikan_pdf.py     <- menyamakan nama berkas PDF dengan tautan di indeks
+ 44145aa232afac655b4d52d6c6862dac40dc70f1
     └── cek_tautan.py      <- memeriksa semua PDF sudah terunggah
 ```
 
